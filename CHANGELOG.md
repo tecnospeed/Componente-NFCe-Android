@@ -2,4 +2,4 @@
 
 **Novidades**
 
-* Liberada promeira versão do componente NFCE Android
+* Liberada primeira versão do componente NFCE Android

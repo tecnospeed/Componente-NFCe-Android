@@ -8,6 +8,6 @@ Para começar a usar este componente em seu aplicativo, basta instanciá-lo em s
 
 **Para baixar a versão Trial:**  
 
-* [Componente NFCe Android](s3://tecnospeed-trial/nfce_tecnoaccount_1.0.0.0.apk "Baixar o Componente NCFe Android apk") 
+* [Componente NFCe Android](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/nfce_tecnoaccount_1.0.0.0.apk "Baixar o Componente NCFe Android apk") 
 
-* [SDK JAVA](s3://tecnospeed-trial/sdk_java_nfce_tecnoaccount_1.0.0.0.aar "Baixar o Componente NCFe Android SDK JAVA")
+* [SDK JAVA](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/sdk_java_nfce_tecnoaccount_1.0.0.0.aar "Baixar o Componente NCFe Android SDK JAVA")

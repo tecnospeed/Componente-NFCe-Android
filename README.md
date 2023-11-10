@@ -6,4 +6,4 @@ Para começar a usar este componente em seu aplicativo, basta instanciá-lo em s
 **Este artigo irá fornecer todas as informações necessárias para baixar o componente e orienta você na implementação de métodos para emitir e imprimir notas fiscais eletrônicas de forma incrivelmente simples, [clique aqui](https://atendimento.tecnospeed.com.br/hc/pt-br/articles/17708127501847-Guia-Geral-Componente-NFC-e-Android).**
 
 
-**Para baixar a versão Trial, [Componente NFCe Android](s3://tecnospeed-trial/nfce_tecnoaccount_1.0.0.0.apk "Baixar o Componente NCFe Android apk"), [SDK JAVA](https://s3.console.aws.amazon.com/s3/object/tecnospeed-trial?region=sa-east-1&prefix=sdk_java_nfce_tecnoaccount_1.0.0.0.aar "Baixar o Componente NCFe Android SDK JAVA")**.
+**Para baixar a versão Trial, [Componente NFCe Android](s3://tecnospeed-trial/nfce_tecnoaccount_1.0.0.0.apk "Baixar o Componente NCFe Android apk"), [SDK JAVA](s3://tecnospeed-trial/sdk_java_nfce_tecnoaccount_1.0.0.0.aar "Baixar o Componente NCFe Android SDK JAVA")**.

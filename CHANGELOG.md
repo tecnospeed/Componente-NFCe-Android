@@ -4,7 +4,7 @@
 
 * DSP4G - 1463 - Adicionando o novo parametro caminhoCertificado nas funções alteradas e nas chamadas
 
-* DSP4G-1468 - Node Embarcado - Adicionando retorno da resposta da SEFAZ pois quando não esta usando pelo android studio não estava logando os erros no Flutter
+* DSP4G-1468 - Adicionando retorno da resposta da SEFAZ pois quando não esta usando pelo android studio não estava logando os erros no Flutter
 
 ## [1.0.0.1]
 

@@ -1,3 +1,11 @@
+## [1.1.0.2]
+
+**Novidades**
+
+* DSP4G-1463 - Realizado a implementação do acesso ao storage interno do aparelho pelo componente android. Agora ao instalar ele pede para o usuario liberar o acesso
+
+* DSP4G-1464 - Realizado a implementação do método para gerar o pdf da NFCe
+
 ## [1.0.0.4]
 
 **Novidades**

@@ -1,3 +1,18 @@
+## [1.1.0.3]
+
+**Novidades**
+
+* DSP4G-1618 - - documentação modelo de integração json para linux e android
+* DSP4G-1616 - Comp. Linux : Atualiza lib para facilitar o deploy
+* DSP4G-1602 - Comp. Linux : Tratar os campos CPF e CNPJ pra um valor unico
+* DSP4G-1589 - Comp. Linux : Implementar testes unitários para esses casos de mapeamento
+* DSP4G-1588 - Comp. Linux : Implementar regras que atualmente só funcionam com os campos tx2 para funcionar em JSON
+* DSP4G-1584 - Implementação no node-embarcado - linux o metodo de conversão de json para xml e nos respectivos SDK's node e python
+* DSP4G-1583 - Comp. Linux : Implementar essa nova integração no nfe-dataset-js
+* DSP4G-1582 - - implementação de integração por JSON na lib xsd-dataset-js
+* DSP4G-1579 - Comp. NFCe linux: Integração Json
+* DSP4G-1535 - Comp. NFCe Android: Integração Json
+
 ## [1.1.0.2]
 
 **Novidades**

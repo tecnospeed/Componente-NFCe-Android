@@ -2,10 +2,10 @@
 
 **Novidades**
 
-DSP4G-1717 - Criado propriedade para parametrizar onde o XMLDestinatario vai ser salvo.
-DSP4G-1695 - Disponibilizado a propriedade para personalizar o caminho do log de comunicação com a SEFAZ.
-DSP4G-1694 - Criado propriedade e documentação do fluxo de Logs
-DSP4G-1668 - Ativado a maquininha da Stone
+* DSP4G-1717 - Criado propriedade para parametrizar onde o XMLDestinatario vai ser salvo.
+* DSP4G-1695 - Disponibilizado a propriedade para personalizar o caminho do log de comunicação com a SEFAZ.
+* DSP4G-1694 - Criado propriedade e documentação do fluxo de Logs
+* DSP4G-1668 - Ativado a maquininha da Stone
 
 
 ## [1.1.0.3]

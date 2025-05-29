@@ -1,3 +1,11 @@
+## [1.1.0.5]
+
+**Correções**
+
+* 25.05.21 | DSML-1676 - correção build e pre requisitos para execução do projetocorreção build e pre requisitos para execução do projeto
+* 25.05.21 | DSML-1543 - Comp. Android: Ajustar Demo Oficial Tecnospeed para rodar nas demonstrações das Adquirentes/Tablets
+
+
 ## [1.1.0.4]
 
 **Novidades**
